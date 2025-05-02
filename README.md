@@ -9,6 +9,7 @@ This repository contains my daily progress and solutions from the **Chai Aur Cod
 | Day | Problems Solved | File Names         |
 |-----|------------------|--------------------|
 | 1   | 4                | D1Q1.cpp - D1Q4.cpp |
+| 1   | 4                | D2Q1.cpp - D2Q4.cpp |
 
 *More days and solutions will be added as I progress through the challange.*
 
@@ -17,6 +18,7 @@ This repository contains my daily progress and solutions from the **Chai Aur Cod
 ## 📚 Topics Covered (so far)
 
 - Input, Output & Operators
+- Conditionals
 
 ---
 
