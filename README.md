@@ -19,6 +19,7 @@ This repository contains my daily progress and solutions from the **Chai Aur Cod
 | 9   | 3                | D9Q1.cpp - D9Q3.cpp |
 | 10  | 3                | D10Q1.cpp - D10Q3.cpp |
 | 11  | 3                | D11Q1.cpp - D11Q3.cpp |
+| 12  | 3                | D12Q1.cpp - D12Q3.cpp |
 
 *More days and solutions will be added as I progress through the challange.*
 
@@ -31,6 +32,7 @@ This repository contains my daily progress and solutions from the **Chai Aur Cod
 - Loops
 - Arrays
 - Strings
+- Functions
 
 ---
 
