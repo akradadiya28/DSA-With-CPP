@@ -24,6 +24,7 @@ This repository contains my daily progress and solutions from the **Chai Aur Cod
 | 14  | 3                | D14Q1.cpp - D14Q3.cpp |
 | 15  | 2                | D15Q1.cpp - D15Q2.cpp |
 | 16  | 3                | D16Q1.cpp - D16Q3.cpp |
+| 17  | 2                | D17Q1.cpp - D17Q2.cpp |
 
 *More days and solutions will be added as I progress through the challange.*
 
